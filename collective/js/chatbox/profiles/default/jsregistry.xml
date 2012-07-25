@@ -4,6 +4,6 @@
                  enabled="True" expression="" 
                  id="++resource++collective.js.chatbox/jquery.ui.chatbox.js" 
                  inline="False"
-                 insert-after="jquery-integration.js" />
+                 insert-after="++resource++jquery-ui.min.js" />
 </object>
 
